@@ -45,7 +45,7 @@ Documenta la definición de palabra elegida y el tratamiento de puntuación, nú
 ├── data/
 │   └── input.txt
 └── docs/
-    └── evidencias/
+    └── resultados/
 ```
 
 ## 6. Caso de prueba
